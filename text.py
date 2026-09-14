@@ -1,0 +1,1 @@
+data = {"name": "Shriyansh", "age": 19, "subject": "Python", "isStudent": True}

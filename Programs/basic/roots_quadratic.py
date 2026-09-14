@@ -1,0 +1,6 @@
+a = float(input("Enter a: "))
+b = float(input("Enter b: "))
+c = float(input("Enter c: "))
+root1 = (-b+(b*b-4*a*c)**0.5)/(2*a)
+root2 = (-b-(b*b-4*a*c)**0.5)/(2*a)
+print(f"Roots of quadratic equation {root1:.2f} and {root2:.2f}")

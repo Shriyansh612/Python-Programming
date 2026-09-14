@@ -1,0 +1,6 @@
+a = int(input(print("Enter price: ")))
+b = int(input(print("Enter price: ")))
+c = int(input(print("Enter price: ")))
+d = int(input(print("Enter price: ")))
+print("Total Price: ", (a+b+c+d)*1.18)
+print("GST:", (a+b+c+d)*0.18)

@@ -1,0 +1,50 @@
+{
+    "101": {
+        "name": "shriyansh",
+        "age": 19,
+        "city": "agra",
+        "marks": {
+            "math": 60,
+            "science": 70,
+            "english": 80
+        },
+        "skills": [
+            "python",
+            "java"
+        ],
+        "total": 210,
+        "percentage": 7000.0
+    },
+    "102": {
+        "name": "raghu",
+        "age": 17,
+        "city": "agra",
+        "marks": {
+            "math": 79,
+            "science": 80,
+            "english": 60
+        },
+        "skills": [
+            "reading",
+            "sports"
+        ],
+        "total": 219,
+        "percentage": 7300.0
+    },
+    "103": {
+        "name": "ravi",
+        "age": 18,
+        "city": "agra",
+        "marks": {
+            "math": 59,
+            "science": 80,
+            "english": 90
+        },
+        "skills": [
+            "messaging",
+            "writing"
+        ],
+        "total": 229,
+        "percentage": 7633.333333333333
+    }
+}

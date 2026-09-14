@@ -1,0 +1,3 @@
+A = {1,2,3,4,5,6}
+B = {3,4,7}
+print("Number of common elements: ",len(A&B))
